@@ -11,3 +11,5 @@ def input_to_integer(move)
   index = move.to_i - 1 
   index
 end
+
+board 0 = X
